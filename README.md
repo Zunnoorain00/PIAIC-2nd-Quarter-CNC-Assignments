@@ -6,4 +6,4 @@
 
 ## PIAIC-JavaScript-Assignments
 <br>
-1.<a href="./product/download.html" target="_top">Chapter_1_2_3</a>
+1.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-JavaScript-Assignments/Chapter_1_2_3" target="_top">Chapter_1_2_3</a>
