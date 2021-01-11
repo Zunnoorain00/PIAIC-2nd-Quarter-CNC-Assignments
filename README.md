@@ -24,8 +24,8 @@
 4.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-JavaScript-Assignments/Chapter_10_to_14" target="_top">Chapter_10_to_14</a><br>
 5.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-JavaScript-Assignments/Chapter_15_16_17" target="_top">Chapter_15_16_17</a><br>
 6.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-JavaScript-Assignments/Chapter_18_19_20" target="_top">Chapter_18_19_20</a><br>
-7.<a href="" target="_top">Chapter_21_to_30</a><br>
-8.<a href="" target="_top">Chapter_31_to_34</a><br>
-9.<a href="" target="_top">Chapter_35_to_38</a><br>
-10.<a href="" target="_top">Chapter_39_to_42</a><br>
+7.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-JavaScript-Assignments/Chapter_21_to_30" target="_top">Chapter_21_to_30</a><br>
+8.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-JavaScript-Assignments/Chapter_31_to_34" target="_top">Chapter_31_to_34</a><br>
+9.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-JavaScript-Assignments/Chapter_35_to_38" target="_top">Chapter_35_to_38</a><br>
+10.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-JavaScript-Assignments/Chapter_39_to_42" target="_top">Chapter_39_to_42</a><br>
 
