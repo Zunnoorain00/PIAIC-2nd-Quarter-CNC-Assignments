@@ -14,6 +14,7 @@
 10.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-11-12" target="_top">Chapter-11-12</a><br>
 11.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-13" target="_top">Chapter-13</a><br>
 12.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Final%20Assignment%20of%20CSS%20-%20Portfolio" target="_top">Final Assignment of CSS - Portfolio</a><br>
+<a href="https://zunnoorain00.github.io/final-assignment.github.io/" target="_top">Link of Final Assignment of CSS - Portfolio</a><br>
 
 
 ### PIAIC-JavaScript-Assignments
