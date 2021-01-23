@@ -9,10 +9,10 @@
 5.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-5" target="_top"> Chapter-5</a><br>
 6.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-6" target="_top"> Chapter-6</a><br>
 7.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-7" target="_top"> Chapter-7</a><br>
-8.<a href="" target="_top"> Files of Final Assignment (HTML)</a> | <a href="https://zunnoorain00.github.io/html-final-assignment.github.io/." target="_top"> Visual Display of Final Assignment (HTML)</a> <br>
-9.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-10" target="_top">Chapter-10</a><br>
-10.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-11-12" target="_top">Chapter-11-12</a><br>
-11.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-13" target="_top">Chapter-13</a><br>
+8.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Final%20Assignment%20of%20HTML" target="_top"> Files of Final Assignment (HTML)</a> | <a href="https://zunnoorain00.github.io/html-final-assignment.github.io/." target="_top"> Visual Display of Final Assignment (HTML)</a> <br>
+9.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-10" target="_top"> Chapter-10</a><br>
+10.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-11-12" target="_top"> Chapter-11-12</a><br>
+11.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Chapter-13" target="_top"> Chapter-13</a><br>
 12.<a href="https://github.com/Zunnoorain00/PIAIC-2nd-Quarter-CNC-Assignments/tree/main/PIAIC-HTML-CSS-Assignments/Final%20Assignment%20of%20CSS%20-%20Portfolio" target="_top">Files of Final Assignment - Portfolio</a> | 
 <a href="https://zunnoorain00.github.io/final-assignment.github.io/" target="_top">Visual Display of Final Assignment of CSS - Portfolio</a><br>
 
